@@ -1,0 +1,23 @@
+# Fdb version 3
+["pdflatex"] 1614617491 "answer.tex" "answer.pdf" "answer" 1614617491
+  "/usr/share/texmf-dist/tex/latex/base/inputenc.sty" 1607249373 5050 0d3b77275060ca09a40635b830c3c904 ""
+  "/usr/share/texmf-dist/tex/latex/base/report.cls" 1607249373 23204 74c91ecbcc47161218f25d9d0651c0f7 ""
+  "/usr/share/texmf-dist/tex/latex/base/size10.clo" 1607249373 8449 a72d5d4e612221b46000c3d71724e0ef ""
+  "/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty" 1607249373 1655 a1ec6f2670a260de25415d37e9c60e97 ""
+  "/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1607249373 1224 978390e9c2234eab29404bc21b268d1e ""
+  "/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def" 1607249373 19103 48d29b6e2a64cb717117ef65f107b404 ""
+  "/usr/share/texmf-dist/tex/latex/graphics/graphics.sty" 1607249373 18272 a8c6a275b34ab6717ceeb8fa04b104e2 ""
+  "/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty" 1607249373 7919 20fdfdd783821971c55bc8ee918cbe63 ""
+  "/usr/share/texmf-dist/tex/latex/graphics/keyval.sty" 1607249373 2590 e3b24ff953e5b58d924f163d25380312 ""
+  "/usr/share/texmf-dist/tex/latex/graphics/trig.sty" 1607249373 3976 d7fa7d81d2870d509d25b17d0245e735 ""
+  "/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1607249373 23704 02c466ff883953a445c97e55638005fc ""
+  "/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty" 1607249373 6209 39d1eb8cf795211a62af7adcc948426b ""
+  "/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex" 1607249373 80141 edbf9289c99ff37db17116af7a3a423f ""
+  "/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1607249373 5905 c6eb253894f4e808af476e034b49df36 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1607249373 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1612608219 2635859 8ff49364bd110fc6bfbe85c88ceccd65 ""
+  "answer.aux" 1614617490 56 8e2f1bb1dbc5073e6df68e2274724c3e ""
+  "answer.tex" 1614617483 1593 1747bb9b4015c83ecd5ae9003da25b3c ""
+  (generated)
+  "answer.pdf"
+  "answer.log"
