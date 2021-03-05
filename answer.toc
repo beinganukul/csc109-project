@@ -1,0 +1,40 @@
+\contentsline {section}{\numberline {1}Intro To DOS}{4}{}%
+\contentsline {section}{\numberline {2}Different types of DOS commands}{4}{}%
+\contentsline {subsection}{\numberline {2.1}DIR}{4}{}%
+\contentsline {subsection}{\numberline {2.2}MKDIR}{5}{}%
+\contentsline {subsection}{\numberline {2.3}CD}{6}{}%
+\contentsline {subsection}{\numberline {2.4}TYPE}{7}{}%
+\contentsline {subsection}{\numberline {2.5}ECHO}{8}{}%
+\contentsline {subsection}{\numberline {2.6}COPY}{9}{}%
+\contentsline {subsection}{\numberline {2.7}MEM}{10}{}%
+\contentsline {subsection}{\numberline {2.8}DEL}{11}{}%
+\contentsline {subsection}{\numberline {2.9}CLS}{12}{}%
+\contentsline {subsection}{\numberline {2.10}HELP}{13}{}%
+\contentsline {section}{\numberline {3}Project Work On Word Processor}{14}{}%
+\contentsline {subsection}{\numberline {3.1}Bio-Data}{14}{}%
+\contentsline {subsection}{\numberline {3.2}Identity Card}{15}{}%
+\contentsline {subsection}{\numberline {3.3}Introduction to IPv6}{16}{}%
+\contentsline {subsection}{\numberline {3.4}Class Routine}{17}{}%
+\contentsline {subsection}{\numberline {3.5}Mark Sheet of SEE}{18}{}%
+\contentsline {section}{\numberline {4}Project Work on Spreadsheet}{19}{}%
+\contentsline {subsection}{\numberline {4.1}Find out Bonus, TAX,P.F. and net salary.}{19}{}%
+\contentsline {subsection}{\numberline {4.2}Find out Total, Percentage, Division and Result.}{19}{}%
+\contentsline {subsection}{\numberline {4.3}Create a line chart.}{19}{}%
+\contentsline {subsection}{\numberline {4.4}Create a bar graph.}{20}{}%
+\contentsline {subsection}{\numberline {4.5}Design Pie Chart.}{20}{}%
+\contentsline {section}{\numberline {5}Project work on Presentation}{21}{}%
+\contentsline {subsection}{\numberline {5.1}Input Devices}{21}{}%
+\contentsline {subsection}{\numberline {5.2}Multimedia}{23}{}%
+\contentsline {subsection}{\numberline {5.3}Cloud Computing}{25}{}%
+\contentsline {subsection}{\numberline {5.4}Smart City}{27}{}%
+\contentsline {subsection}{\numberline {5.5}Network Topology}{29}{}%
+\contentsline {section}{\numberline {6}Project work on Ms Access}{31}{}%
+\contentsline {subsection}{\numberline {6.1}Customer Table}{31}{}%
+\contentsline {subsection}{\numberline {6.2}Orders Table}{31}{}%
+\contentsline {subsection}{\numberline {6.3}Book Table}{31}{}%
+\contentsline {subsection}{\numberline {6.4}Relationship among Table}{32}{}%
+\contentsline {subsection}{\numberline {6.5}First name of Customer}{33}{}%
+\contentsline {subsection}{\numberline {6.6}Book written by abc}{34}{}%
+\contentsline {subsection}{\numberline {6.7}Books ordered by specific date}{34}{}%
+\contentsline {subsection}{\numberline {6.8}Report for particular customer}{35}{}%
+\contentsline {subsection}{\numberline {6.9}Form for particular book}{36}{}%
